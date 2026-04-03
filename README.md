@@ -5,7 +5,7 @@ Model Weight Google Drive Link: https://drive.google.com/drive/folders/1YOY5FZyy
 
 ## Reproducibility Instructions
 
-To reproduce the results, please download and run **`starter_book_4_1_final_version.ipynb`** in a Jupyter environment.
+To reproduce the results, please download and run **`starter_book_final_version.ipynb`** in a Jupyter environment.
 
 If the required packages are not already installed, please **uncomment and run the pip installation block at the beginning of the notebook**.
 
